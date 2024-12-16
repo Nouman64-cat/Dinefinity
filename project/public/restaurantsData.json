@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Gogo Grill",
+      "address": "32 Civic Center, Johar Town, Lahore, Pakistan",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=32+Civic+Center,+Johar+Town,+Lahore,+Pakistan",
+      "contact": "0311 1124646",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "BFC – Bismillah Food Corner",
+      "address": "Main Boulevard, Johar Town, Lahore, Pakistan",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Main+Boulevard,+Johar+Town,+Lahore,+Pakistan",
+      "contact": "042-35290203",
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Al-Dewan Restaurant",
+      "address": "Main Boulevard, Khokar Chowk, Johar Town Phase 2, Lahore, Pakistan",
+      "mapsLink": "https://www.google.com/maps/search/?api=1&query=Main+Boulevard,+Khokar+Chowk,+Johar+Town+Phase+2,+Lahore,+Pakistan",
+      "contact": "042-35290204",
+      "rating": 4.3
+    }
+  ]
+  
